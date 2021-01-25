@@ -1,1 +1,1 @@
-# Genetic-Algorithm-Based-Ensemble-of-Deep-Learning-Models-for-Driver-Distraction-Recognition
+# Genetic-Algorithm-Weighted-Ensemble-of-Deep-Learning-Models-for-Driver-Distraction-Recognition
