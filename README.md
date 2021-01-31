@@ -1,4 +1,4 @@
-# Genetic-Algorithm-Weighted-Ensemble-of-Deep-Learning-Models-for-Driver-Distraction-Recognition
+# Genetic Algorithm(GA) Based Ensemble : Distracted Driver Detection
 The current repository, based on my project on driver distraction detection, proposes a solution for the existing problem by constructing an "ensemble" or "comination" of deep learning networks, consisting of :
 * AlexNet
 * Vanilla CNN
